@@ -8,4 +8,4 @@ Reputeless (https://twitter.com/Reputeless)
 https://www.flickr.com/photos/seier/4342331255/
 
 #### スクリーンショット
-![スクリーンショット](ss.gif "スクリーンショット")
+![スクリーンショット](2dv.gif "スクリーンショット")
